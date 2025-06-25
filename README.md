@@ -35,6 +35,6 @@
 
 <!-- 🤖 多智能体 & 推理框架 -->
 <img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/langchain.jpg" alt="LangChain" width="60" height="60" style="margin:4px;" />
-<img src="https://github.com/camel-ai/camel/blob/master/misc/logo_light.png" alt="CAMEL" width="60" height="60" style="margin:4px;" />
+<img src="https://github.com/camel-ai/camel/blob/master/examples/usecases/chat_with_github/assets/logo_camel_ai.png" alt="CAMEL" width="60" height="60" style="margin:4px;" />
 
 </div>
