@@ -14,8 +14,9 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin:4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin:4px;" />
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="40" height="40" style="margin:4px;" /> 
-  <img src="https://artwork.lfaidata.foundation/projects/milvus/white/milvus-icon-white.png" alt="Milvus" width="40" height="40" style="margin:4px;" />
+  <img src="https://raw.githubusercontent.com/docker-library/docs/master/docker/logo.png" alt="Docker" width="40" height="40" style="margin:4px;" />
+  <img src="https://milvus.io/assets/img/logo-dark.svg" alt="Milvus" width="40" height="40" style="margin:4px;" />
+
 
 
 
