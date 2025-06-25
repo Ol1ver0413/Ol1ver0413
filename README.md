@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-A passionate AI Agent Developer/System Architect 
+<p align="center"><strong>A passionate AI Agent Developer/System Architect</strong></p>
 - 🌱 I’m currently learning Multi-Agent Systems, Retrieval-Augmented Generation, Reinforcement Learning, and LLM fine-tuning. 
 - 📫 How to reach me: 790221864@qq.com/yuzhelin0413@gmail.com
 - 📄 Know about my experiences:
