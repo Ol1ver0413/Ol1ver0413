@@ -19,7 +19,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="60" height="60" style="margin:4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="margin:4px;" />
   <img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/langchain.jpg" alt="langchain" width="60" height="60" style="margin:4px;" />
-    <img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/milvus.png" alt="Milvus" width="60" height="60" style="margin:4px;" />
+  <img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/milvus.png" alt="Milvus" width="60" height="60" style="margin:4px;" />
+  <img src="https://raw.githubusercontent.com/oceanbase/oceanbase/HEAD/docs/logo/oceanbase-logo.png" alt="OceanBase" width="60" height="60" style="margin:4px;" />
 
 
 
