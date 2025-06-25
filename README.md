@@ -20,7 +20,7 @@
   <img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-png/light/langchain.png" alt="LangChain" width="60" height="60" style="margin:4px;" />
   <img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-png/light/langgraph.png" alt="LangGraph" width="60" height="60" style="margin:4px;" />
     <img src="https://github.com/camel-ai/camel/blob/master/misc/favicon.png" alt="CAMEL-AI" width="60" height="60" style="margin:4px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/MySQL_textlogo.svg" alt="MySQL" width="60" height="60" style="margin:4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="margin:4px;" />
 
 
 
