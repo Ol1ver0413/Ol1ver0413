@@ -1,11 +1,10 @@
-## Hi there 👋
+## Hi 👋, I'm Oliver Lin
 
 <!--
 **Ol1ver0413/Ol1ver0413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+Here are some ideas to get you started:
+-->
 - 🌱 I’m currently learning Multi-Agent Systems, Retrieval-Augmented Generation, Reinforcement Learning, and LLM fine-tuning. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
