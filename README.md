@@ -18,7 +18,7 @@
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="60" height="60" style="margin:4px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="60" height="60" style="margin:4px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="margin:4px;" />
-  <img src="https://github.com/lobehub/lobe-icons/blob/master/packages/static-png/light/langchain-color.png" alt="MySQL" width="60" height="60" style="margin:4px;" />
+  <img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/langchain.jpg" alt="MySQL" width="60" height="60" style="margin:4px;" />
   
 
 
