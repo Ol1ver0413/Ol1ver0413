@@ -16,7 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin:4px;" />
   <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="Docker" width="40" height="40" style="margin:4px;" />
   <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="40" style="margin:4px;" />
-  <img src="https://milvus.io/images/milvus-logo.svg" alt="Milvus" width="40" height="40" style="margin:4px;" />
+  <img src="https://zilliz.com.cn/blog/milvus2.3-newfeature-vectordatabase" alt="Milvus" width="40" height="40" style="margin:4px;" />
+
 
 
 
