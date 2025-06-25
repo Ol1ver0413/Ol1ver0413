@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/docker-library/docs/master/docker/logo.png" alt="Docker" width="40" height="40" style="margin:4px;" />
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="40" height="40" style="margin:4px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="40" height="40" style="margin:4px;" />
-  <img src="[https://avatars.githubusercontent.com/u/9141969?s=200&v=4](https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/langchain.png)" alt="LangChain" width="40" height="40" style="margin:4px;" />
+  <img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/langchain.png" alt="LangChain" width="40" height="40" style="margin:4px;" />
   <img src="https://raw.githubusercontent.com/langgraph/langgraph/main/docs/images/langgraph_logo.png" alt="LangGraph" width="40" height="40" style="margin:4px;" />
 
 
