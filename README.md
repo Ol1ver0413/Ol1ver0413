@@ -7,3 +7,7 @@
 - 📫 How to Reach Me 790221864@qq.com / yuzhelin0413@gmail.com
 
 - 📄 Know About My Experiences [My Resume (Google Drive)](https://drive.google.com/file/d/1mcfaagczm11w6RVDzHBok4JTdhpvUTk8/view?usp=drive_link)
+
+<h3 align="left"><strong>Contact with me:</strong></h3>
+
+<h3 align="left">Languages and Tools:</h3>
