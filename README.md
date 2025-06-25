@@ -1,4 +1,4 @@
-# Hi 👋, I'm Oliver Lin
+<p align="center"><strong><h1>Hi 👋, I'm Oliver Lin</h1></strong></p>
 
 <p align="center"><strong>A passionate AI Agent Developer / System Architect</strong></p>
 
