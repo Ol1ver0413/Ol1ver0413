@@ -22,7 +22,7 @@
   <img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/milvus.png" alt="Milvus" width="60" height="60" style="margin:4px;" />
   <img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/oceanbase.jpg" alt="OceanBase" width="60" height="60" style="margin:4px;" />
   <img src="https://github.com/camel-ai/camel/blob/master/misc/logo_light.png" alt="CAMEL" width="100" height="60" style="margin:4px;" />
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/PyTorch_logo_icon.svg" alt="PyTorch" width="60" height="60" style="margin:4px;" />
 
 
 
