@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oliver Lin</h1>
 
-<p align="center"><strong>A passionate AI Agent Developer / System Architect</strong></p>
+<h2 align="center"><strong>A passionate AI Agent Developer / System Architect</strong></h2>
 
 ---
 
