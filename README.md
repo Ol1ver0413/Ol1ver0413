@@ -4,14 +4,8 @@
 
 ---
 
-## 🌱 Currently Learning
-- Multi-Agent Systems
-- Retrieval-Augmented Generation
-- Reinforcement Learning
-- LLM Fine-tuning
+- 🌱 I'm currently learning Multi-Agent System, Reinforcement Learning, Retrieval-Augmented Generation, FineTuning.
 
-## 📫 How to Reach Me
-- Email: 790221864@qq.com / yuzhelin0413@gmail.com
+- 📫 How to Reach Me 790221864@qq.com / yuzhelin0413@gmail.com
 
-## 📄 Know About My Experiences
-- [My Resume (Google Drive)](https://drive.google.com/file/d/1mcfaagczm11w6RVDzHBok4JTdhpvUTk8/view?usp=drive_link)
+- 📄 Know About My Experiences [My Resume (Google Drive)](https://drive.google.com/file/d/1mcfaagczm11w6RVDzHBok4JTdhpvUTk8/view?usp=drive_link)
