@@ -2,7 +2,7 @@
 
 <h3 align="center"><strong>🚀 A passionate AI Agent Developer/System Architect</strong></h3>
 
-- 🌱 I'm currently learning **Multi-Agent System**, **Reinforcement Learning**, **Retrieval-Augmented Generation**, **FineTuning**.
+- 🌱 I'm currently learning **Multi-Agent System**, **Reinforcement Learning**, **Context Engineering**, **FineTuning**.
 
 - 📫 How to Reach Me 790221864@qq.com / yuzhelin0413@gmail.com
 
