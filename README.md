@@ -11,34 +11,16 @@
 <h3 align="left"><strong>Contact with me:</strong></h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin:4px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin:4px;" />
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="40" height="40" style="margin:4px;" />
-
-<!-- 📦 容器 & 后端 -->
-<img src="https://raw.githubusercontent.com/docker-library/docs/master/docker/logo.png" alt="Docker" width="40" height="40" style="margin:4px;" />
-
-<!-- 💻 前端 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/320px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="40" height="40" style="margin:4px;" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/320px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="40" height="40" style="margin:4px;" />
--->
-<!-- 🐧 操作系统 -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="40" height="40" style="margin:4px;" />
-
-<!-- 🛢️ 数据库 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin:4px;" />
-<img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/oceanbase.jpg" alt="OceanBase" width="40" height="40" style="margin:4px;" />
-
-<!-- 📚 向量数据库 -->
-<img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/milvus.png" alt="Milvus" width="40" height="40" style="margin:4px;" />
-
-<!-- 🧠 AI 框架 -->
-<img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="40" height="40" style="margin:4px;" />
-
-<!-- 🤖 多智能体 & 推理框架 -->
-<img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/langchain.jpg" alt="LangChain" width="40" height="40" style="margin:4px;" />
-<img src="https://github.com/camel-ai/camel/blob/master/examples/usecases/chat_with_github/assets/logo_camel_ai.png" alt="CAMEL" width="40" height="40" style="margin:4px;" />
-
-
-</div>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;
+<a href="https://isocpp.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>&nbsp;
+<a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>&nbsp;
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>&nbsp;
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>&nbsp;
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;
+<a href="https://www.oceanbase.com" target="_blank" rel="noreferrer"><img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/oceanbase.jpg?raw=true" alt="OceanBase" width="40" height="40"/></a>&nbsp;
+<a href="https://milvus.io" target="_blank" rel="noreferrer"><img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/milvus.png?raw=true" alt="Milvus" width="40" height="40"/></a>&nbsp;
+<a href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>&nbsp;
+<a href="https://www.langchain.com" target="_blank" rel="noreferrer"><img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/langchain.jpg?raw=true" alt="LangChain" width="40" height="40"/></a>&nbsp;
+<a href="https://www.camel-ai.org" target="_blank" rel="noreferrer"><img src="https://github.com/camel-ai/camel/blob/master/examples/usecases/chat_with_github/assets/logo_camel_ai.png?raw=true" alt="CAMEL" width="40" height="40"/></a>
+</p>
