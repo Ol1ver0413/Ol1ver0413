@@ -12,8 +12,6 @@
 
 ### Languages and Tools:
 
-<table><tr><td valign="top">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,fastapi,docker,linux,mysql,pytorch&theme=dark" alt="Tech Stack" />
-</td></tr><tr><td valign="top">
-<img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/oceanbase.jpg?raw=true" alt="OceanBase" width="48" height="48"/>&nbsp;&nbsp;<img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/milvus.png?raw=true" alt="Milvus" width="48" height="48"/>&nbsp;&nbsp;<img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/langchain.jpg?raw=true" alt="LangChain" width="48" height="48"/>&nbsp;&nbsp;<img src="https://github.com/camel-ai/camel/blob/master/examples/usecases/chat_with_github/assets/logo_camel_ai.png?raw=true" alt="CAMEL" width="48" height="48"/>
+<table><tr><td>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,fastapi,docker,linux,mysql,pytorch&theme=dark&perline=15" alt="Tech Stack" />&nbsp;&nbsp;<img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/oceanbase.jpg?raw=true" alt="OceanBase" width="48" height="48"/>&nbsp;&nbsp;<img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/milvus.png?raw=true" alt="Milvus" width="48" height="48"/>&nbsp;&nbsp;<img src="https://github.com/Ol1ver0413/Ol1ver0413/blob/main/assert_logo/langchain.jpg?raw=true" alt="LangChain" width="48" height="48"/>&nbsp;&nbsp;<img src="https://github.com/camel-ai/camel/blob/master/examples/usecases/chat_with_github/assets/logo_camel_ai.png?raw=true" alt="CAMEL" width="48" height="48"/>
 </td></tr></table>
